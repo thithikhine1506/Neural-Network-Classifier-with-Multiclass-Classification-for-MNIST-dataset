@@ -50,4 +50,11 @@ Large Batches (B=100,1000): Utilized vectorization for computational efficiency 
 
 Successfully achieved consistent high accuracy (~84%+) on the 10-class MNIST classification task.
 
+**How to Run**
+
+1.Clone this repository.
+
+2.Install the required environment: pip install numpy torch torchvision matplotlib.
+
+3.Open Neural Network Classifier with Multiclass Classification_codes_thi_thi_khine.ipynb to view the implementation and analysis.
 
