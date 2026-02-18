@@ -26,8 +26,11 @@ Large Batches (B=100,1000): Utilized vectorization for computational efficiency 
 **Tech Stack**
 
 **Language:** Python
+
 **Optimization**: NumPy (Vectorized Matrix Calculus)
+
 **Visualization**: Matplotlib
+
 **Framework Benchmarking**: PyTorch & Torchvision
 
 **Final Performance**
